@@ -1,0 +1,11 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sébastien Ollagnier — signe SO">
+  <title>Sébastien Ollagnier — signe</title>
+  <rect width="64" height="64" rx="16" fill="#0f1b33"/>
+  <text x="32" y="37" text-anchor="middle" font-family="'IBM Plex Sans','Segoe UI',Arial,sans-serif" font-weight="700" font-size="25" letter-spacing="-.5" fill="#eef1f5">SO</text>
+  <polyline points="16,50 27,46 38,48 44.8,43.7" fill="none" stroke="#5b9bff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="16" cy="50" r="2.4" fill="#5b9bff"/>
+  <circle cx="27" cy="46" r="2.4" fill="#5b9bff"/>
+  <circle cx="38" cy="48" r="2.4" fill="#5b9bff"/>
+  <circle cx="49" cy="41" r="5" fill="#0d9488"/>
+  <path d="M46.2 41.1 L48.2 43.2 L52.1 38.9" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
